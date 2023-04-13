@@ -6,3 +6,6 @@ insert into Students(id, firstname, lastname, age) values(3, 'Barney','Rubble', 
 insert into Students(id, firstname, lastname, age) values(4, 'Betty', 'Rubble', 29);
 insert into Students(id, firstname, lastname, age) values(5, 'Pebbles', 'Flintstone', 1);
 insert into Students(id, firstname, lastname, age) values(6, 'Bam-Bam', 'Rubble', 1);
+insert into Students(id, firstname, lastname, age) values(7, 'Fred', 'Jones', 21);
+insert into Students(id, firstname, lastname, age) values(8, 'Daphne', 'Blake', 19);
+insert into Students(id, firstname, lastname, age) values(9, 'Velma', 'Dinkley', 20);
